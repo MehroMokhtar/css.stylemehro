@@ -1,0 +1,36 @@
+body {
+    color: black;
+    -webkit-text-fill-color: hotpink; 
+    -webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-color: black;
+
+    font-family: Arial, Helvetica, sans-serif, Times, serif;
+  }
+h1 {
+    font-size: 60px;
+  }
+body {
+    font-size: 30px;
+}
+a {
+    color: hotpink;
+  }
+body {background-color:#dcdcc6;}
+.black-border {
+    border: 5px solid 	#D4AF37;
+}
+#green-background {
+    background-color:khaki ;
+}
+#another-background {
+    background-color:khaki ;
+}
+#third-background {
+    background-color:khaki ;
+}
+.intro-border {
+    border: 5px solid 	#D4AF37;
+}
+h1 {
+    font-family: "Times New Roman", Times, serif;
+  }
